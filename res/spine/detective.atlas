@@ -1,0 +1,89 @@
+
+detective.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eye
+  rotate: false
+  xy: 351, 139
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 351, 139
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 617, 222
+  size: 74, 36
+  orig: 74, 48
+  offset: 0, 5
+  index: -1
+eyebrow2
+  rotate: false
+  xy: 617, 222
+  size: 74, 36
+  orig: 74, 48
+  offset: 0, 5
+  index: -1
+face
+  rotate: false
+  xy: 617, 260
+  size: 210, 208
+  orig: 210, 210
+  offset: 0, 1
+  index: -1
+glow_red
+  rotate: false
+  xy: 1, 124
+  size: 348, 344
+  orig: 348, 348
+  offset: 0, 4
+  index: -1
+hat
+  rotate: true
+  xy: 829, 268
+  size: 200, 179
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 1, 1
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 203, 103
+  size: 28, 19
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+pupil2
+  rotate: false
+  xy: 203, 103
+  size: 28, 19
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 351, 205
+  size: 264, 263
+  orig: 264, 264
+  offset: 0, 1
+  index: -1
+smile
+  rotate: false
+  xy: 1, 33
+  size: 200, 89
+  orig: 200, 90
+  offset: 0, 1
+  index: -1
